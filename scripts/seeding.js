@@ -60,5 +60,5 @@ async function seedDatabase() {
   }
 }
 
-// 🚀 실행
+//  실행
 seedDatabase();
